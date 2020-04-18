@@ -7,7 +7,6 @@
 3. 协议执行文件：rdt.h、rdt.c&emsp;&emsp;创建协议进程为处理原进程与目标进程协议交流
 ### 程序结构
 <div class="mermaid">
-```mermaid
 graph LR
     subgraph 父子关系图
         main["main"]
@@ -23,7 +22,6 @@ graph LR
         client1-->client1_protocol
         client2-->client2_protocol
     end
-```
 </div>
 ```mermaid
 graph LR
