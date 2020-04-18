@@ -6,7 +6,7 @@
 2. 协议工具文件：_rdt.h、_rdt.c&emsp;提供如打包pkt、校验码等函数、宏、结构体
 3. 协议执行文件：rdt.h、rdt.c&emsp;&emsp;创建协议进程为处理原进程与目标进程协议交流
 ### 程序结构
-<script src="js.process_relationship.js"></script>
+<script src="reliable_procotol.js.process_relationship.js"></script>
 
 <div class="mermaid">
 graph LR
